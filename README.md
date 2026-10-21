@@ -43,3 +43,16 @@ direkt in der App; dort wird es geprüft und kann sofort gestartet werden.
 4. Das Quiz hier im README in die passende Tabelle eintragen. Der Link hat
    die Form
    `https://quiz.smlz.ch/create?src=gh:smlz/quizzes/fach/NN-kapitel/thema.typ`.
+
+## Lizenz
+
+Die Quizzes stehen unter der Lizenz
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+(Namensnennung – Weitergabe unter gleichen Bedingungen), © Marco Schmalz.
+Sie dürfen frei verwendet, angepasst und weitergegeben werden, sofern die
+Urheberschaft genannt wird und abgeänderte Fassungen unter derselben Lizenz
+stehen. Der vollständige Lizenztext steht in [LICENSE](LICENSE).
+
+Ausgenommen sind die Kopien der Vorlage `quiz.typ`. Sie stammen aus
+[smlz/math-quiz](https://github.com/smlz/math-quiz) und stehen unter der
+dortigen Lizenz (AGPL-3.0).
