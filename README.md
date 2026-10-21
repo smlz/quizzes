@@ -8,24 +8,24 @@ direkt in der App; dort wird es geprüft und kann sofort gestartet werden.
 
 ### Kapitel 1: Mengen und Wahrscheinlichkeit
 
-| Quiz | Fragen | Einsatz | |
+| Datei | Inhalt | Fragen | Links |
 |---|---|---|---|
-| Mengenoperationen | 6 | – | [Starten](https://quiz.smlz.ch/create?src=gh:smlz/quizzes/mathematik/01-mengen-wahrscheinlichkeit/mengenoperationen.typ) · [Quelltext](mathematik/01-mengen-wahrscheinlichkeit/mengenoperationen.typ) |
+| 01-mengenoperationen.typ | Mengenoperationen anhand Beispielmengen | 6 | [Starten](https://quiz.smlz.ch/create?src=gh:smlz/quizzes/mathematik/01-mengen-wahrscheinlichkeit/01-mengenoperationen.typ) · [Quelltext](mathematik/01-mengen-wahrscheinlichkeit/01-mengenoperationen.typ) |
 
 ### Kapitel 2: Bruchterme
 
-| Quiz | Fragen | Einsatz | |
+| Datei | Inhalt | Fragen | Links |
 |---|---|---|---|
-| Rechenreihenfolge, Klammern und Vorzeichen | 7 | Doppellektion 1, Einstieg | [Starten](https://quiz.smlz.ch/create?src=gh:smlz/quizzes/mathematik/02-bruchterme/rechenreihenfolge.typ) · [Quelltext](mathematik/02-bruchterme/rechenreihenfolge.typ) |
-| Kürzen – erlaubt oder nicht? | 6 | Doppellektion 3, optional | [Starten](https://quiz.smlz.ch/create?src=gh:smlz/quizzes/mathematik/02-bruchterme/kuerzen.typ) · [Quelltext](mathematik/02-bruchterme/kuerzen.typ) |
+| 01-rechenreihenfolge.typ | Rechenreihenfolge, Klammern und Vorzeichen | 7 | [Starten](https://quiz.smlz.ch/create?src=gh:smlz/quizzes/mathematik/02-bruchterme/01-rechenreihenfolge.typ) · [Quelltext](mathematik/02-bruchterme/01-rechenreihenfolge.typ) |
+| 02-kuerzen.typ | Kürzen: Aus Produkten, Ausklammern | 6 |  [Starten](https://quiz.smlz.ch/create?src=gh:smlz/quizzes/mathematik/02-bruchterme/02-kuerzen.typ) · [Quelltext](mathematik/02-bruchterme/02-kuerzen.typ) |
 
 ## Informatik
 
 ### Kapitel 1: Tabellenkalkulation
 
-| Quiz | Fragen | Einsatz | |
+| Datei | Inhalt | Fragen | Links |
 |---|---|---|---|
-| Excel-Repetition | 14 | vor der praktischen Probe | [Starten](https://quiz.smlz.ch/create?src=gh:smlz/quizzes/informatik/01-tabellenkalkulation/excel-repetition.typ) · [Quelltext](informatik/01-tabellenkalkulation/excel-repetition.typ) |
+| 01-excel-repetition.typ | Excel: Formeln für Wahrscheinlichkeiten | 14 | [Starten](https://quiz.smlz.ch/create?src=gh:smlz/quizzes/informatik/01-tabellenkalkulation/01-excel-repetition.typ) · [Quelltext](informatik/01-tabellenkalkulation/01-excel-repetition.typ) |
 
 ## Neues Quiz hinzufügen
 
