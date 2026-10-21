@@ -6,6 +6,12 @@ direkt in der App; dort wird es geprüft und kann sofort gestartet werden.
 
 ## Mathematik
 
+### Kapitel 1: Mengen und Wahrscheinlichkeit
+
+| Quiz | Fragen | Einsatz | |
+|---|---|---|---|
+| Mengenoperationen | 6 | – | [Starten](https://quiz.smlz.ch/create?src=gh:smlz/quizzes/mathematik/01-mengen-wahrscheinlichkeit/mengenoperationen.typ) · [Quelltext](mathematik/01-mengen-wahrscheinlichkeit/mengenoperationen.typ) |
+
 ### Kapitel 2: Bruchterme
 
 | Quiz | Fragen | Einsatz | |
