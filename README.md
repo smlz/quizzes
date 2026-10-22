@@ -18,6 +18,7 @@ direkt in der App; dort wird es geprüft und kann sofort gestartet werden.
 |---|---|---|---|
 | [01-rechenreihenfolge.typ](mathematik/02-bruchterme/01-rechenreihenfolge.typ) | Rechenreihenfolge, Klammern und Vorzeichen | 7 | [Starten](https://quiz.smlz.ch/create?src=gh:smlz/quizzes/mathematik/02-bruchterme/01-rechenreihenfolge.typ) |
 | [02-kuerzen.typ](mathematik/02-bruchterme/02-kuerzen.typ) | Kürzen: Aus Produkten, Ausklammern | 6 |  [Starten](https://quiz.smlz.ch/create?src=gh:smlz/quizzes/mathematik/02-bruchterme/02-kuerzen.typ) |
+| [03-binomische-formeln.typ](mathematik/02-bruchterme/03-binomische-formeln.typ) | Binomische Formeln: Ausmultiplizieren und Faktorisieren | 4 | [Starten](https://quiz.smlz.ch/create?src=gh:smlz/quizzes/mathematik/02-bruchterme/03-binomische-formeln.typ) |
 
 ## Informatik
 
